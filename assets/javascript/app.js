@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	var birds = ["ostrich", "owl", "eagle", "swift", "seagull", "hawk", "sparrow", "woodpecker"];
+	var birds = ["ostrich", "owl", "parrot", "crow", "seagull", "loons", "falcon", "woodpecker"];
 
 	// Add buttons for original birds array
 	function renderButtons() {
