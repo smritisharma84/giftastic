@@ -1,7 +1,7 @@
 
 .jumbotron{
 	/*padding: 1%;*/
-	background-color: #5cb85c;
+	background-color: blue;
 	color: #ffffff;
 }
 
@@ -11,4 +11,10 @@
 
 div{
 	margin-bottom: 2%;
+}
+
+.btn-success{
+	background-color: blue;
+	border-color: blue;
+	margin: 2px;
 }
